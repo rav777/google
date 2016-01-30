@@ -1,0 +1,35 @@
+nav {	
+	min-width: 100%;
+	height: 48px;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+nav ul {
+	position: static;
+	bottom: 2px;
+	right: 1px;
+	float: right;
+	margin: 12px 18px;
+	padding: 10px 30px;
+	}
+
+nav li {
+	margin: 15px 5px 15px 6px;
+	padding: 5px 4px;
+	font-size: 12px;
+	display: inline;
+	color: #369;
+}
+
+header {
+	clear: both;
+	width: 829px;
+	height: 163px;
+	margin: auto;
+	padding: 6px 0;
+	text-align: center;
+	display: block;
+	}
+
+div.basecamp{
+	margin: 15px 5px 15px 6px
+}
